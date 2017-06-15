@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<activities>
+    <activity icon="planet-scales" title="MAJOR SCALES" description="Drag the notes to the correct pitch; tap the notes to add accidentals, then click ✓." />
+    <activity icon="planet-scales" title="MINOR SCALES (NATURAL FORM)" description="Drag the provided notes to the correct pitch; tap the notes to add accidentals. " />
+    <activity icon="planet-scales" title="MINOR SCALES (HARMONIC FORM)" description="Drag the provided notes to the correct pitch; tap the notes to add accidentals. " />
+    <activity icon="planet-scales" title="MINOR SCALES (MELODIC FORM)" description="Drag the provided notes to the correct pitch; tap the notes to add accidentals. " />
+    <activity icon="planet-scales" title="KEY SIGNATURE" description="Select your answer from the picker below." />
+    <activity icon="planet-scales" title="SCALE DEGREE NAMES (MAJOR KEYS)" description="Select your answer from the picker below." />
+    <activity icon="planet-scales" title="SCALE DEGREE NAMES (MINOR KEYS)" description="Select your answer from the picker below." />
+</activities>
