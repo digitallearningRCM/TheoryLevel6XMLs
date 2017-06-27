@@ -11,8 +11,6 @@
     <option image="IOS_L6_U6_A1_1_A8" location="7" />
     <option image="IOS_L6_U6_A1_1_A9" location="8" />
     <option image="IOS_L6_U6_A1_1_A10" location="9" />
-    <option image="IOS_L6_U6_A1_1_A11" location="10" />
-    <option image="IOS_L6_U6_A1_1_A12" location="11" />
   </question>
   <question staff1="IOS_L6_U6_A1_2_Q" staff2="IOS_L6_U6_A1_EQ" musicFile="L1_U8_Q2">
     <option image="IOS_L6_U6_A1_2_A1" location="0" preset="yes" />
@@ -25,8 +23,6 @@
     <option image="IOS_L6_U6_A1_2_A8" location="7" />
     <option image="IOS_L6_U6_A1_2_A9" location="8" />
     <option image="IOS_L6_U6_A1_2_A10" location="9" />
-    <option image="IOS_L6_U6_A1_2_A11" location="10" />
-    <option image="IOS_L6_U6_A1_2_A12" location="11" />
   </question>
   <question staff1="IOS_L6_U6_A1_3_Q" staff2="IOS_L6_U6_A1_EQ" musicFile="L1_U8_Q3">
     <option image="IOS_L6_U6_A1_3_A1" location="0" preset="yes" />
@@ -39,8 +35,6 @@
     <option image="IOS_L6_U6_A1_3_A8" location="7" />
     <option image="IOS_L6_U6_A1_3_A9" location="8" />
     <option image="IOS_L6_U6_A1_3_A10" location="9" />
-    <option image="IOS_L6_U6_A1_3_A11" location="10" />
-    <option image="IOS_L6_U6_A1_3_A12" location="11" />
   </question>
   <question staff1="IOS_L6_U6_A1_4_Q" staff2="IOS_L6_U6_A1_EQ" musicFile="L1_U8_Q4">
     <option image="IOS_L6_U6_A1_4_A1" location="0" preset="yes" />
@@ -53,8 +47,6 @@
     <option image="IOS_L6_U6_A1_4_A8" location="7" />
     <option image="IOS_L6_U6_A1_4_A9" location="8" />
     <option image="IOS_L6_U6_A1_4_A10" location="9" />
-    <option image="IOS_L6_U6_A1_4_A11" location="10" />
-    <option image="IOS_L6_U6_A1_4_A12" location="11" />
   </question>
   <question staff1="IOS_L6_U6_A1_5_Q" staff2="IOS_L6_U6_A1_EQ" musicFile="L1_U8_Q5">
     <option image="IOS_L6_U6_A1_5_A1" location="0" preset="yes" />
@@ -67,8 +59,6 @@
     <option image="IOS_L6_U6_A1_5_A8" location="7" />
     <option image="IOS_L6_U6_A1_5_A9" location="8" />
     <option image="IOS_L6_U6_A1_5_A10" location="9" />
-    <option image="IOS_L6_U6_A1_5_A11" location="10" />
-    <option image="IOS_L6_U6_A1_5_A12" location="11" />
   </question>
   <question staff1="IOS_L6_U6_A1_6_Q" staff2="IOS_L6_U6_A1_EQ" musicFile="L1_U8_Q6">
     <option image="IOS_L6_U6_A1_6_A1" location="0" preset="yes" />
@@ -81,8 +71,6 @@
     <option image="IOS_L6_U6_A1_6_A8" location="7" />
     <option image="IOS_L6_U6_A1_6_A9" location="8" />
     <option image="IOS_L6_U6_A1_6_A10" location="9" />
-    <option image="IOS_L6_U6_A1_6_A11" location="10" />
-    <option image="IOS_L6_U6_A1_6_A12" location="11" />
   </question>
   <question staff1="IOS_L6_U6_A1_7_Q" staff2="IOS_L6_U6_A1_EQ" musicFile="L1_U8_Q7">
     <option image="IOS_L6_U6_A1_7_A1" location="0" preset="yes" />
@@ -95,8 +83,6 @@
     <option image="IOS_L6_U6_A1_7_A8" location="7" />
     <option image="IOS_L6_U6_A1_7_A9" location="8" />
     <option image="IOS_L6_U6_A1_7_A10" location="9" />
-    <option image="IOS_L6_U6_A1_7_A11" location="10" />
-    <option image="IOS_L6_U6_A1_7_A12" location="11" />
   </question>
   <question staff1="IOS_L6_U6_A1_8_Q" staff2="IOS_L6_U6_A1_EQ" musicFile="L1_U8_Q8">
     <option image="IOS_L6_U6_A1_8_A1" location="0" preset="yes" />
@@ -109,8 +95,6 @@
     <option image="IOS_L6_U6_A1_8_A8" location="7" />
     <option image="IOS_L6_U6_A1_8_A9" location="8" />
     <option image="IOS_L6_U6_A1_8_A10" location="9" />
-    <option image="IOS_L6_U6_A1_8_A11" location="10" />
-    <option image="IOS_L6_U6_A1_8_A12" location="11" />
   </question>
   <question staff1="IOS_L6_U6_A1_9_Q" staff2="IOS_L6_U6_A1_EQ" musicFile="L1_U8_Q9">
     <option image="IOS_L6_U6_A1_9_A1" location="0" preset="yes" />
@@ -123,8 +107,6 @@
     <option image="IOS_L6_U6_A1_9_A8" location="7" />
     <option image="IOS_L6_U6_A1_9_A9" location="8" />
     <option image="IOS_L6_U6_A1_9_A10" location="9" />
-    <option image="IOS_L6_U6_A1_9_A11" location="10" />
-    <option image="IOS_L6_U6_A1_9_A12" location="11" />
   </question>
   <question staff1="IOS_L6_U6_A1_10_Q" staff2="IOS_L6_U6_A1_EQ" musicFile="L1_U8_Q10">
     <option image="IOS_L6_U6_A1_10_A1" location="0" preset="yes" />
@@ -137,7 +119,5 @@
     <option image="IOS_L6_U6_A1_10_A8" location="7" />
     <option image="IOS_L6_U6_A1_10_A9" location="8" />
     <option image="IOS_L6_U6_A1_10_A10" location="9" />
-    <option image="IOS_L6_U6_A1_10_A11" location="10" />
-    <option image="IOS_L6_U6_A1_10_A12" location="11" />
   </question>
 </questions>
