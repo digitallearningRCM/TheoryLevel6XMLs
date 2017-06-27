@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <category type="paragraph" question="" text="In the 'Eine kleine Nachtmusic', the performing forces are">
+    <question text="solo keyboard" answer="false" />
+    <question text="A small group of instruments with one player per part" answer="true" />
+    <question text="A group of solo instruments contrasted with a full string orchestra" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="In 'Brandenburg Concert No. 5', the performing forces are">
+    <question text="solo keyboard" answer="false" />
+    <question text="A group of solo instruments contrasted with a full string orchestra" answer="true" />
+    <question text="A small group of instruments with one player per part" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="In 'Invention in C Major, BWV 772', the performing forces are">
+    <question text="A small group of instruments with one player per part" answer="false" />
+    <question text="solo keyboard" answer="true" />
+    <question text="A group of solo instruments contrasted with a full string orchestra" answer="true" />
+  </category>
+  <category type="paragraph" question="" text="In the 'Invention in C Major, BWV 772', two or more independent melodic lines are combined. What is this an example of?">
+    <question text="Polyphonic texture" answer="true" />
+    <question text="Vocal virtuosity" answer="false" />
+    <question text="Sonata form" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Johann Sebastian Bach is one of the best-know composers of what era?">
+    <question text="The Baroque era" answer="true" />
+    <question text="The Classical era" answer="false" />
+    <question text="The Romantic era" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Wolfgang Amadeus Mozart is one of the best-known composers of what era?">
+    <question text="The Baroque era" answer="false" />
+    <question text="The Classical era" answer="true" />
+    <question text="The Romantic era" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="An invention is a keyboard composition based on...">
+    <question text="Imitation and written in a polyphonic texture" answer="true" />
+    <question text="Sonata form and written in a homophonic texture" answer="false" />
+    <question text="Verse-chorus structure written in a monophonic texture" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Which of the follwing methods of composition is one of the hallmarks of the Baroque style.">
+    <question text="Polyphonic writing" answer="true" />
+    <question text="Sonata form" answer="false" />
+    <question text="Homophonic writing" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Concerto grosso style is characteristic of which musical era?">
+    <question text="The Baroque era" answer="true" />
+    <question text="The Classical era" answer="false" />
+    <question text="The Romantic era" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Bach's Brandenburg Concerto No. 5 features which of the following instruments as the solo group?">
+    <question text="violin, flute, and harpsichord" answer="true" />
+    <question text="trumpet, flute, and saxophone" answer="false" />
+    <question text="violin, viola, and cello" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="A Concerto grosso is usually in how many movements?">
+    <question text="three: fast-slow-fast" answer="true" />
+    <question text="four: fast-slow-fast-fast" answer="false" />
+    <question text="three: exposition, development, recapitulation" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="In the Classical era, homophonic texture became increasingly common.">
+    <question text="true" answer="true" />
+    <question text="false" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Throughout much of 'Eine kleine Nachmusik', which instrument carries the melody line?">
+    <question text="the piano" answer="false" />
+    <question text="the violin" answer="true"></question>
+    <question text="the flute" answer="false" />
+  </category>
+</questions>
