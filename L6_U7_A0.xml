@@ -25,7 +25,7 @@
     <question text="Solo song" answer="false" />
     <question text="Concerto grosso" answer="true" />
   </category>
-  <category type="paragraph" question="" text="The genre of 'Eine kleine nachtmusik' is ...">
+  <category type="paragraph" question="" text="The genre of 'Eine kleine Nachtmusik' is ...">
     <question text="Chamber music" answer="true" />
     <question text="Concerto grosso" answer="false" />
     <question text="Invention" answer="false" />
@@ -46,7 +46,7 @@
     <question text="sacred work usually based on a biblical story" answer="true" />
   </category>
   <category type="paragraph" question="" text="Which of the following is an example of chamber music?">
-    <question text="'Eine kleine nachtmusik'" answer="true" />
+    <question text="'Eine kleine Nachtmusik'" answer="true" />
     <question text="'Brandenburg Concerto No. 5'" answer="false" />
     <question text="Invention in C Major, BWV 772" answer="false" />
   </category>
@@ -67,7 +67,7 @@
     <question text="'Eine Kleine Nachtmusik'" answer="false" />
     <question text="'Over the Rainbow'" answer="false" />
   </category>
-  <category type="paragraph" question="" text="What formal structure organizes the first movement of 'Eine kleine nachtmusic'?">
+  <category type="paragraph" question="" text="What formal structure organizes the first movement of 'Eine kleine Nachtmusic'?">
     <question text="Ritornello" answer="false" />
     <question text="Concerto" answer="false" />
     <question text="Sonata" answer="true" />
