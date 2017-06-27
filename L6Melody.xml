@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <activities>
-  <activity icon="planet-melody" title="Identify the key" description="Identify the key of this melody" xmlFile="L6_U6_A0" />
-  <activity icon="planet-melody" title="Composing an answer phrase" description="Given the question phrase, complete the answer by dragging the correct measures to the staff." xmlFile="L6_U6_A1" />
+  <activity icon="planet-melody" title="IDENTIFY THE KEY" description="Identify the key of this melody" xmlFile="L6_U6_A0" />
+  <activity icon="planet-melody" title="COMPOSING AN ANSWER PRHASE" description="Given the question phrase, complete the answer by dragging the correct measures to the staff." xmlFile="L6_U6_A1" />
 </activities>
