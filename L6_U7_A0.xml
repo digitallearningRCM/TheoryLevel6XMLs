@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <category type="paragraph" question="" text="Who composed Invention in C Major, BWV 772?">
+    <question text="Johann Sebastian Bach" answer="true" />
+    <question text="Wolfgang Amadeus Mozart" answer="false" />
+    <question text="George Frideric Handel" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Who composed 'Brandenburg Concerto No. 5', BWV 1050?">
+    <question text="George Frideric Handel" answer="false" />
+    <question text="Johann Sebastian Bach" answer="true" />
+    <question text="Wolfgang Amadeus Mozart" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Who composed 'Eine kleine Nachtmusik'?">
+    <question text="George Frideric Handel" answer="false" />
+    <question text="Wolfgang Amadeus Mozart" answer="true" />
+    <question text="Johann Sebastian Bach" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="The genre of Invention in C Major, BWV 772 is...">
+    <question text="an invention" answer="true" />
+    <question text="an aria from an opera" answer="false" />
+    <question text="a symphony" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="The genre of 'Brandenburg Concerto No. 5' is ...">
+    <question text="Chorus from an oratorio" answer="false" />
+    <question text="Solo song" answer="false" />
+    <question text="Concerto grosso" answer="true" />
+  </category>
+  <category type="paragraph" question="" text="The genre of 'Eine kleine nachtmusik' is ...">
+    <question text="Chamber music" answer="true" />
+    <question text="Concerto grosso" answer="false" />
+    <question text="Invention" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Chamber music is music written for ...">
+    <question text="large groups, often 100 or more players" answer="false" />
+    <question text="small ensembles, often two to ten players with one player per part" answer="true" />
+    <question text="solo instrumentalists" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="A concerto grosso is a ...">
+    <question text="multimovement work that combines a solosit with an orchestra" answer="true" />
+    <question text="solo work often written as a musical exercise for students" answer="false" />
+    <question text="small ensembles, often two to ten players with one player per part" answer="false"></question>
+  </category>
+  <category type="paragraph" question="" text="An invention is a ...">
+    <question text="keyboard composition that is based on imitation and written in a polyphonic texture" answer="true" />
+    <question text="multimovement work that combines a solosit with an orchestra" answer="false" />
+    <question text="sacred work usually based on a biblical story" answer="true" />
+  </category>
+  <category type="paragraph" question="" text="Which of the following is an example of chamber music?">
+    <question text="'Eine kleine nachtmusik'" answer="true" />
+    <question text="'Brandenburg Concerto No. 5'" answer="false" />
+    <question text="Invention in C Major, BWV 772" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Which genre is  written for a combination of solosit and orchestra?">
+    <question text="Oratorio" answer="false" />
+    <question text="Concerto grosso" answer="true" />
+    <question text="Opera" answer="false" />
+    <question text="Invention" answer="false" />
+    <question text="Chamber music" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="'Grosso' in Bach's Brandenburg Concerto refers to...">
+    <question text="the large group of soloists featured in the work" answer="true" />
+    <question text="the size of the harpsichord featured in the work" answer="false" />
+    <question text="the size of the orchestra featured in the work" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Which of the following works features a motive that is inverted, presented in sequence, and imitated?">
+    <question text="Invention in C Major, BWV 772" answer="true" />
+    <question text="'Eine Kleine Nachtmusik'" answer="false" />
+    <question text="'Over the Rainbow'" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="What formal structure organizes the first movement of 'Eine kleine nachtmusic'?">
+    <question text="Ritornello" answer="false" />
+    <question text="Concerto" answer="false" />
+    <question text="Sonata" answer="true" />
+    <question text="Verse-chorus" answer="false" />
+  </category>
+  <category type="paragraph" question="" text="Which genre is usually a multi-movement work written for a small group of instruments?">
+    <question text="Concerto grosso" answer="false" />
+    <question text="Invention" answer="false" />
+    <question text="Opera" answer="false" />
+    <question text="Chamber music" answer="true" />
+  </category>
+</questions>
