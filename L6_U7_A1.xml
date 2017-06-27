@@ -59,7 +59,7 @@
     <question text="true" answer="true" />
     <question text="false" answer="false" />
   </category>
-  <category type="paragraph" question="" text="Throughout much of 'Eine kleine Nachmusik', which instrument carries the melody line?">
+  <category type="paragraph" question="" text="Throughout much of 'Eine kleine Nachtmusik', which instrument carries the melody line?">
     <question text="the piano" answer="false" />
     <question text="the violin" answer="true"></question>
     <question text="the flute" answer="false" />
