@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <activities>
     <activity icon="planet-rhythm" title="NOTE AND REST VALUES" description="Select the equal value." xml="L6_U2_A0" />
-    <activity icon="planet-rhythm" title="SIMPLE TIME SIGANTURES ($L$ $R$ $H$ $:$ $C$ $J$ $I$ $U$ $K$)" description="Identify the time signature." xml="L6_U2_A1" />
-    <activity icon="planet-rhythm" title="SIMPLE AND COMPOUND TIME SIGNATURES ($Q$ $Z$ $A$ $W$ $X$ $S$ $E$ $F$ $D$ $L$ $R$ $H$ $:$ $C$ $J$ $I$ $U$ $K$)" description="Identify the time signature." xml="L6_U2_A2" />
-    <activity icon="planet-rhythm" title="RESTS IN COMPOUND METERS ($L$ $R$ $H$ $:$ $C$ $J$ $I$ $U$ $K$)" description="Select the correct example to complete the measure with rests." xml="L6_U2_A3" />
-    <activity icon="planet-rhythm" title="RESTS IN SIMPLE AND COMPOUND METERS ($Q$ $Z$ $A$ $W$ $X$ $S$ $E$ $F$ $D$ $L$ $R$ $H$ $:$ $C$ $J$ $I$ $U$ $K$)" description="Select the correct example to complete the measure with rests." xmlFile="L6_U2_A4"/>
+    <activity icon="planet-rhythm" title="SIMPLE TIME SIGANTURES" description="Identify the time signature." xml="L6_U2_A1" />
+    <activity icon="planet-rhythm" title="SIMPLE AND COMPOUND TIME SIGNATURES" description="Identify the time signature." xml="L6_U2_A2" />
+    <activity icon="planet-rhythm" title="RESTS IN COMPOUND METERS" description="Select the correct example to complete the measure with rests." xml="L6_U2_A3" />
+    <activity icon="planet-rhythm" title="RESTS IN SIMPLE AND COMPOUND METERS" description="Select the correct example to complete the measure with rests." xmlFile="L6_U2_A4"/>
 </activities>
