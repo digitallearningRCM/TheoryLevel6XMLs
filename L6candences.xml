@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<questions>
+    <question file="cadence_pic" answer1="C" answer2="major" answer3="V" answer4="I" answer5="Authentic Cadence" />
+    <question file="cadence_pic2" answer1="D" answer2="minor" answer3="iv" answer4="I" answer5="Half Cadence" />
+</questions>
