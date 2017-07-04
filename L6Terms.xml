@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <activities>
-  <activity icon="planet-terms" title="New terms and signs" description="Tap the card that best defines the given term or sign." xml="L6_U8_A0" />
-  <activity icon="planet-terms" title="Terms and signs (part 1)" description="Tap the card that best defines the given term or sign." xml="L6_U8_A1"></activity>
-  <activity icon="planet-terms" title="Terms and signs (part 2)" description="Tap the card that best defines the given term or sign." xml="L6_U8_A2" />
-  <activity icon="planet-terms" title="Terms and signs (part 3)" description="Tap the card that best defines the given term or sign." xml="L6_U8_A3" />
+  <activity icon="planet-terms" title="NEW TERMS AND SIGNS" description="Tap the card that best defines the given term or sign." xml="L6_U8_A0" />
+  <activity icon="planet-terms" title="TERMS AND SIGNS (PART 1)" description="Tap the card that best defines the given term or sign." xml="L6_U8_A1"></activity>
+  <activity icon="planet-terms" title="TERMS AND SIGNS (PART 2)" description="Tap the card that best defines the given term or sign." xml="L6_U8_A2" />
+  <activity icon="planet-terms" title="TERMS AND SIGNS (PART 3)" description="Tap the card that best defines the given term or sign." xml="L6_U8_A3" />
 </activities>
