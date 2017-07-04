@@ -4,5 +4,5 @@
     <activity icon="planet-rhythm" title="COMPOUND TIME SIGANTURES" description="Identify the time signature." xml="L6_U2_A1" />
     <activity icon="planet-rhythm" title="RESTS IN COMPOUND METERS (PART 1)" description="Select the correct example to complete the measure with rests." xml="L6_U2_A2" />
     <activity icon="planet-rhythm" title="RESTS IN COMPOUND METERS (PART 2)" description="Select the correct example to complete the measure with rests." xml="L6_U2_A3" />
-    <activity icon="planet-rhythm" title="RESTS IN COMPOUND METERS (PART 3)" description="Select the correct example to complete the measure with rests." xmlFile="L6_U2_A4"/>
+    <activity icon="planet-rhythm" title="RESTS IN COMPOUND METERS (PART 3)" description="Select the correct example to complete the measure with rests." xml="L6_U2_A4"/>
 </activities>
