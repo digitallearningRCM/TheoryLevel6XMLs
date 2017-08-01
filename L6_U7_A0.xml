@@ -38,7 +38,7 @@
   <category type="paragraph" question="" text="A concerto grosso is a ...">
     <question text="multimovement work that combines a solosit with an orchestra" answer="true" />
     <question text="solo work often written as a musical exercise for students" answer="false" />
-    <question text="small ensembles, often two to ten players with one player per part" answer="false"></question>
+    <question text="small ensemble, often two to ten players with one player per part" answer="false"></question>
   </category>
   <category type="paragraph" question="" text="An invention is a ...">
     <question text="keyboard composition that is based on imitation and written in a polyphonic texture" answer="true" />
@@ -67,7 +67,7 @@
     <question text="'Eine Kleine Nachtmusik'" answer="false" />
     <question text="'Over the Rainbow'" answer="false" />
   </category>
-  <category type="paragraph" question="" text="What formal structure organizes the first movement of 'Eine kleine Nachtmusic'?">
+  <category type="paragraph" question="" text="What formal structure organizes the first movement of 'Eine kleine Nachtmusik'?">
     <question text="Ritornello" answer="false" />
     <question text="Concerto" answer="false" />
     <question text="Sonata" answer="true" />
