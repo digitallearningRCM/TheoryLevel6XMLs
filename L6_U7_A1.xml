@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <questions>
-  <category type="paragraph" question="" text="In the 'Eine kleine Nachtmusic', the performing forces are">
+  <category type="paragraph" question="" text="In the 'Eine kleine Nachtmusik', the performing forces are">
     <question text="solo keyboard" answer="false" />
     <question text="A small group of instruments with one player per part" answer="true" />
     <question text="A group of solo instruments contrasted with a full string orchestra" answer="false" />
@@ -13,19 +13,19 @@
   <category type="paragraph" question="" text="In 'Invention in C Major, BWV 772', the performing forces are">
     <question text="A small group of instruments with one player per part" answer="false" />
     <question text="solo keyboard" answer="true" />
-    <question text="A group of solo instruments contrasted with a full string orchestra" answer="true" />
+    <question text="A group of solo instruments contrasted with a full string orchestra" answer="false" />
   </category>
   <category type="paragraph" question="" text="In the 'Invention in C Major, BWV 772', two or more independent melodic lines are combined. What is this an example of?">
     <question text="Polyphonic texture" answer="true" />
     <question text="Vocal virtuosity" answer="false" />
     <question text="Sonata form" answer="false" />
   </category>
-  <category type="paragraph" question="" text="Johann Sebastian Bach is one of the best-know composers of what era?">
+  <category type="paragraph" question="" text="Johann Sebastian Bach is one of the best know composers of what era?">
     <question text="The Baroque era" answer="true" />
     <question text="The Classical era" answer="false" />
     <question text="The Romantic era" answer="false" />
   </category>
-  <category type="paragraph" question="" text="Wolfgang Amadeus Mozart is one of the best-known composers of what era?">
+  <category type="paragraph" question="" text="Wolfgang Amadeus Mozart is one of the best known composers of what era?">
     <question text="The Baroque era" answer="false" />
     <question text="The Classical era" answer="true" />
     <question text="The Romantic era" answer="false" />
