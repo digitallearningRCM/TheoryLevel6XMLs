@@ -43,7 +43,7 @@
   <category type="paragraph" question="" text="An invention is a ...">
     <question text="keyboard composition that is based on imitation and written in a polyphonic texture" answer="true" />
     <question text="multimovement work that combines a solosit with an orchestra" answer="false" />
-    <question text="sacred work usually based on a biblical story" answer="true" />
+    <question text="sacred work usually based on a biblical story" answer="false" />
   </category>
   <category type="paragraph" question="" text="Which of the following is an example of chamber music?">
     <question text="'Eine kleine Nachtmusik'" answer="true" />
