@@ -11,14 +11,14 @@
   <question file="IOS_L6_U6_A0_9" answer1="D" answer2="minor"></question>
   <question file="IOS_L6_U6_A0_10" answer1="E" answer2="major"></question>
   <question file="IOS_L6_U6_A0_11" answer1="C" answer2="minor"></question>
-  <question file="IOS_L6_U6_A0_12" answer1="A$b$ " answer2="major"></question>
+  <question file="IOS_L6_U6_A0_12" answer1="Ab" answer2="major"></question>
   <question file="IOS_L6_U6_A0_13" answer1="D" answer2="minor"></question>
-  <question file="IOS_L6_U6_A0_14" answer1="F$#$ " answer2="minor"></question>
-  <question file="IOS_L6_U6_A0_15" answer1="E$b$ " answer2="major"></question>
+  <question file="IOS_L6_U6_A0_14" answer1="F#" answer2="minor"></question>
+  <question file="IOS_L6_U6_A0_15" answer1="Eb" answer2="major"></question>
   <question file="IOS_L6_U6_A0_16" answer1="F" answer2="minor"></question>
   <question file="IOS_L6_U6_A0_17" answer1="C" answer2="minor"></question>
-  <question file="IOS_L6_U6_A0_18" answer1="G$#$ " answer2="minor"></question>
+  <question file="IOS_L6_U6_A0_18" answer1="G#" answer2="minor"></question>
   <question file="IOS_L6_U6_A0_19" answer1="E" answer2="major"></question>
-  <question file="IOS_L6_U6_A0_20" answer1="B$b$ " answer2="major"></question>
-  <question file="IOS_L6_U6_A0_21" answer1="E$b$ " answer2="major" />
+  <question file="IOS_L6_U6_A0_20" answer1="Bb" answer2="major"></question>
+  <question file="IOS_L6_U6_A0_21" answer1="Eb" answer2="major" />
 </questions>
